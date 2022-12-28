@@ -16,8 +16,6 @@ then
 echo "compiling $filename... "
 sleep 2
 
-    echo "Compiling the program" | cat >> results.txt
-
 if  gcc $filename -o filename;
     then
         chmod +x ./$filename
