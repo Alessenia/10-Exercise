@@ -26,3 +26,5 @@ int main()
     printPattern(n);
     return 0;
 }
+
+//Code from GeeksForGeeks , contributed by bhartik021.
